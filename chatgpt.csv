@@ -1,0 +1,293 @@
+rating,title,text,images,asin,parent_asin,user_id,timestamp,helpful_vote,verified_purchase
+1.0,malware,Norton is malware,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Lots of Fun,I enjoy playing tapped out because it is fun to watch the town grow by earning money and buying buildings. I also love helping my neighbors.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Light Up The Dark,"This flashlight app is amazing! It truly illuminates the dark, very cool! Everyone should get this app, they will love it, really!",[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Fun game,This is one of my top games,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,I am not that good at it but my kids are,Cute game. I'm not that good at it but my kids are. We enjoy Nik Wallenda!,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,good game,"Made me think, variety of the puzzles kept it fun to play. I'm glad I gave this one a chance. Looking forward to the next update",[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,My favorite show,"I watch the voice anytime, it's my favorite show",[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Great Antivirus product,"Norton products are great. I've used them for years on all my computers. Easy to install and protects my devices well. I haven't experienced any upsells from Norton. Anyway, if you need Antivirus software for your devices, this is for you.",[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+4.0,Great Value for Money,"This product offers great value for the money. It's well-built and durable, and it has exceeded my expectations. I highly recommend it to anyone in need of a reliable solution at an affordable price.",[],B00005LB8P,B00005LB8P,A3G5RWZHLQ9P0S,1561061428662,0,True
+1.0,malware,mcaffee IS malware,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Lots of Fun,I enjoy playing tapped out because it's entertaining to see the town expand by earning money and purchasing buildings. Helping neighbors is also enjoyable.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Light Up The Dark,"This flashlight app is fantastic! It really lights up the darkness, very impressive! You should definitely get this app, you won't regret it!",[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Fun game,One of my favorite games.,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Great game for kids,Cute game. My kids love it. We enjoy Nik Wallenda!,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Enjoyable puzzle game,Made me think. The variety of puzzles kept it fun to play. Looking forward to the next update.,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Favorite TV show,The Voice is my favorite show. I watch it anytime.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Excellent antivirus software,Norton products are reliable. I've been using them for years on all my devices. Easy to install and provides excellent protection.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Disappointing security software,Save your money and buy Norton security. Too many issues with this version.,[],B002I7PGT8,B002I7PGT8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1296758400000,0,True
+1.0,No thanks,This game is not for me. Uninstalling.,[],B004MFTLSK,B004MFTLSK,AGFEGESNZOJJ2BVYE3OJLYPXZMGA,1323225600000,0,True
+5.0,Exceptional Value,I'm blown away by the exceptional value this product offers. It's rare to find something of such high quality at such an affordable price. I couldn't be happier with my purchase!,[],B00005LB8P,B00005LB8P,A3G5RWZHLQ9P0S,1561061428662,0,True
+1.0,Terrible Experience,"Stay away from this app, it's full of malware. My computer got infected after using it.",[],B07BFS3G7P,B0BQSK9QCF,A23SD5F7HJ9K1J0G92Q,1652304867000,0,False
+5.0,Absolutely Enjoyable,Tapped Out is such a blast! Building my town and helping neighbors is so much fun. Highly recommend!,[],B00CTQ6SIG,B00CTQ6SIG,A1B2C3D4E5F6G7H8I9J,1647023458000,1,True
+5.0,Brightens Up Everything,This flashlight app is a lifesaver! It really lights up the dark and it's super convenient. Get it now!,[],B0066WJLU6,B0066WJLU6,A1B2C3D4E5F6G7H8I9J,1652304867000,0,True
+4.0,Engaging Gameplay,This game is one of my favorites. The puzzles are challenging and keep me entertained. Can't wait for the next update!,[],B00KCYMAWK,B00KCYMAWK,K9L8N7B6J5H4G3F2D1S,1652304867000,0,True
+4.0,Family Fun,Nik Wallenda is a hit with my kids! This game is cute and we all enjoy playing it together.,[],B00P1RK566,B00P1RK566,M1N2B3V4C5X6Z7S8D9F,1647023458000,0,True
+5.0,Lots of Fun,I enjoy playing Tapped Out because it's thrilling to witness the town's growth through earnings and building purchases. I also find joy in assisting my neighbors.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Light Up The Dark,"I'm impressed with this flashlight app! It effectively illuminates dark spaces, which is very cool! I highly recommend it.",[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Fun game,This is one of my top games.,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,I am not that good at it but my kids are,"It's a cute game. I'm not very skilled at it, but my kids excel. We're big fans of Nik Wallenda!",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,good game,This game made me think. The variety of puzzles kept it entertaining. I'm glad I gave it a chance and I'm looking forward to the next update.,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,My favorite showVoice my favorite show,I watch The Voice anytime it's on. It's my favorite show.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Great Antivirus product,Norton products are essential for computer security. I've been using them for years without any issues. Highly recommended.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Fraught with too many problems,Save your money and invest in a good security software like Norton. This version has too many issues. Look elsewhere for PC protection.,[],B01BZXF2KS,B01BZXF2KS,AFSKPY37N3C43SOI5IEXEK5JSIYA,1484515200000,0,True
+4.0,Not bad,"This security software is pretty good. It's not perfect, but it gets the job done and doesn't slow down my computer too much.",[],B01BZXF2KS,B01BZXF2KS,AFSKPY37N3C43SOI5IEXEK5JSIYA,1473782400000,0,True
+1.0,McAfee Review,McAfee is notorious malware.,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1574221793000,0,False
+5.0,Addictive Gameplay,Tapped Out is addictive and engaging. I love watching my town grow and helping neighbors.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1483235835000,0,True
+5.0,Bright Light,This flashlight app is fantastic! It illuminates dark spaces perfectly. A must-have app!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1496872168000,0,True
+4.0,Entertaining,A great game with diverse puzzles. Enjoyable and thought-provoking. Excited for updates!,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1598429232000,0,True
+4.0,Family Favorite,Nik Wallenda is a hit with my kids. We enjoy playing this cute game together.,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1487732592000,0,True
+4.0,Engaging Gameplay,The puzzles in this game are diverse and challenging. Can't wait for updates!,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1597322951000,0,True
+5.0,Voice Fanatic,I'm obsessed with The Voice! I watch it religiously.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1550886193000,0,True
+5.0,Reliable Security,Norton has been my go-to for years. Easy to install and reliable protection.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1367783947000,0,False
+1.0,Disappointing Experience,This security software is riddled with issues. Save your money and look elsewhere.,[],B002I7PGT8,B002I7PGT8,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1593586090000,0,True
+5.0,Great Investment,Microsoft Office is essential for my work. Worth every penny.,[],B07VWDBZFK,B07VWDBZFK,A3PHGBG1EC41XKJFOLOTE7KB34PQ,1556195921000,0,False
+1.0,Terrible Experience,I absolutely despise McAfee! It's nothing but malware itself. Stay away from it!,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Absolutely Delightful,Tapped Out is a fantastic game! I adore watching my town flourish as I earn money and expand. Helping neighbors adds to the fun.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Brilliant Flashlight App,This flashlight app is amazing! It truly lights up the darkness. Highly recommended!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Entertaining Game,This is one of my go-to games for some fun. Highly recommended!,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Fun for the Kids,"My kids love this game, although I struggle a bit with it. Nonetheless, it's a cute game and we enjoy it. Plus, Nik Wallenda is a favorite!",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Impressive Gameplay,This game really made me think. The variety of puzzles kept it enjoyable. I'm eagerly awaiting the next update!,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,My Favorite Show,"I can watch The Voice anytime, anywhere. It's my absolute favorite show!",[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Reliable Antivirus,Norton products have always been reliable for me. Easy to install and effective at protecting my devices. Highly recommended!,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Disappointing Security,Save your money and get a good security system like Norton. This one is riddled with issues. Look elsewhere!,[],B0087YHKT8,B0087YHKT8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1432862805000,0,True
+5.0,Great Fun,I love this game! It's super addicting and keeps me entertained for hours. Highly recommend giving it a try!,[],B00N96HMLM,B00N96HMLM,AFSKPY37N3C43SOI5IEXEK5JSIYA,1426720630000,0,True
+5.0,Incredible App,This is by far the best app I've ever used. It's incredibly useful and has made my life so much easier. Highly recommend!,[],B00BFW3KL8,B00BFW3KL8,A6Z9KDQF8I8QVOLVXM2UEG3F2CEA,1398784576000,0,True
+4.0,Nice Game,I enjoy playing this game during my downtime. It's simple yet entertaining. Would recommend it!,[],B009AP5C2A,B009AP5C2A,A3C3JMLCHWEOQD5LPGG3ESODRRLQ,1398712041000,0,True
+5.0,Love It,This game is so much fun! It's challenging and addictive. Highly recommend it to anyone looking for a good time killer.,[],B00GRJP3S6,B00GRJP3S6,A3C3JMLCHWEOQD5LPGG3ESODRRLQ,1388702330000,0,True
+5.0,Awesome Game,I absolutely love playing this game! It's so addictive and fun. Highly recommend giving it a try!,[],B00HRQB28Y,B00HRQB28Y,A1J1SUC4BRNLJSYNABCHWQIGLCEA,1432477665000,0,True
+5.0,Great App,This app is amazing! It's so helpful for organizing my tasks and keeping track of everything. Highly recommend!,[],B00CS74YQK,B00CS74YQK,A1J1SUC4BRNLJSYNABCHWQIGLCEA,1395205876000,0,True
+5.0,Amazing Game,This game is absolutely amazing! It's so much fun to play and incredibly addicting. Highly recommend giving it a try!,[],B00E6IZHVY,B00E6IZHVY,A2ZAG25GDM59P,1429186153000,0,True
+5.0,Love It!,I absolutely love this game! It's so much fun and really addictive. Highly recommend giving it a try!,[],B00G5LQ5OY,B00G5LQ5OY,A27M7D55OT4NWZGOYRJ6I2X32SQQ,1388794461000,0,True
+4.0,Fun Game,"This game is a lot of fun! It's simple yet challenging, and the graphics are great. Highly recommend it!",[],B00F4JRA3Y,B00F4JRA3Y,A27M7D55OT4NWZGOYRJ6I2X32SQQ,1388794562000,0,True
+5.0,Awesome App,This app is awesome! It's so helpful for keeping track of my tasks and staying organized. Highly recommend!,[],B00H4EX5VU,B00H4EX5VU,A27M7D55OT4NWZGOYRJ6I2X32SQQ,1388794691000,0,True
+5.0,Fantastic Game,This game is fantastic! It's so much fun and really addictive. Highly recommend giving it a try!,[],B00DQ2JY2M,B00DQ2JY2M,A1K5GJYR1DS73C,1395205960000,0,True
+5.0,Love It!,I absolutely love this game! It's so much fun and really addictive. Highly recommend giving it a try!,[],B00G5LQ5OY,B00G5LQ5OY,A2JZB1H2N58W8Q,1398636102000,0,True
+5.0,Great Game,This is a great game! It's so much fun to play and really addictive. Highly recommend giving it a try!,[],B00B0YPK8O,B00B0YPK8O,A1K5GJYR1DS73C,1429186236000,0,True
+5.0,Awesome App,This app is awesome! It's so helpful for keeping track of my tasks and staying organized. Highly recommend!,[],B00H4EX5VU,B00H4EX5VU,A1K5GJYR1DS73C,1429186311000,0,True
+5.0,Love It!,I absolutely love this game! It's so much fun and really addictive. Highly recommend giving it a try!,[],B00G5LQ5OY,B00G5LQ5OY,A1RKX6MKO6U4QB,1429186394000,0,True
+5.0,Great Game,This is a great game! It's so much fun to play and really addictive. Highly recommend giving it a try!,[],B00B0YPK8O,B00B0YPK8O,A2JZB1H2N58W8Q,1429186515000,0,True
+4.0,Nice Game,I enjoy playing this game during my downtime. It's simple yet entertaining. Would recommend it!,[],B009AP5C2A,B009AP5C2A,A2LX45AD7G2Q3O,1398969224000,0,True
+5.0,Love It,This game is so much fun! It's challenging and addictive. Highly recommend it to anyone looking for a good time killer.,[],B00GRJP3S6,B00GRJP3S6,A2LX45AD7G2Q3O,1398618744000,0,True
+5.0,Awesome Game,I absolutely love playing this game! It's so addictive and fun. Highly recommend giving it a try!,[],B00HRQB28Y,B00HRQB28Y,A20AHDZ03VNAEA,1432927382000,0,True
+5.0,Great App,This app is amazing! It's so helpful for organizing my tasks and keeping track of everything. Highly recommend!,[],B00CS74YQK,B00CS74YQK,A20AHDZ03VNAEA,1432927402000,0,True
+5.0,Amazing Game,This game is absolutely amazing! It's so much fun to play and incredibly addicting. Highly recommend giving it a try!,[],B00E6IZHVY,B00E6IZHVY,A1U7RJRX3TMMDK,1432912038000,0,True
+1.0,Virus Trouble,mcaffee IS malware,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Endless Entertainment,I adore tapped out because it's thrilling to witness the town thrive through earnings and purchases. Helping neighbors adds to the fun.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Brighten Up,"This flashlight app is fantastic! It truly brightens up the dark, very impressive! Grab it, you won't regret it!",[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Entertaining Pastime,One of my beloved games,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Fun for Kids,"Adorable game. I struggle, but my kids excel. We're big fans of Nik Wallenda!",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Enjoyable Challenge,"It made me think, the variety of puzzles kept it enjoyable. I'm glad I tried this one out. Excited for the next update!",[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Top Favorite,The Voice is my ultimate favorite show. I watch it anytime.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Excellent Antivirus,Norton products are exceptional. I've been using them for years without any issues. Easy to install and provides excellent protection for my devices.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Disappointing Security,Save your money and invest in a reliable security solution like Norton. This version has too many vulnerabilities and doesn't provide adequate protection.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1534759990669,0,False
+5.0,Effective Protection,Norton consistently delivers top-notch protection against malware and viruses. I highly recommend it to anyone looking for reliable security software.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1560506406000,0,False
+5.0,Great App,This app has been extremely helpful in managing my daily tasks. It's easy to use and has a clean interface. Highly recommended!,[],B01MCZC3O7,B01MCZC3O7,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1471699194000,0,True
+2.0,Not for Me,"I found this app to be too complicated for my needs. The interface is cluttered, and it's not very intuitive. I'll be looking for an alternative.",[],B01MCZC3O7,B01MCZC3O7,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1480346621000,0,False
+4.0,Useful Features,This app has some great features for productivity. I particularly like the task prioritization and reminder functions. It's helped me stay organized.,[],B01MCZC3O7,B01MCZC3O7,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1491401932000,0,False
+5.0,Life Saver,This app has been a life saver for me. It helps me keep track of all my tasks and deadlines. Highly recommend it to anyone looking to boost their productivity!,[],B01MCZC3O7,B01MCZC3O7,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1509430346000,0,False
+5.0,Fantastic Product,"I've been using this product for years, and it never disappoints. It's easy to use, reliable, and provides excellent protection against malware and viruses.",[],B00EZPXYP4,B00EZPXYP4,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1523422732000,0,True
+5.0,Highly Recommended,"I've tried many antivirus programs, and Norton is by far the best. It's easy to use, regularly updates, and provides excellent protection. Highly recommend it!",[],B00EZPXYP4,B00EZPXYP4,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1546381061000,0,True
+5.0,Top-notch Security,Norton never fails to deliver top-notch security. I've been using it for years without any issues. Highly recommend it to anyone looking for reliable antivirus software.,[],B00EZPXYP4,B00EZPXYP4,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1564792602000,0,False
+4.0,Useful App,"This app has helped me stay organized and focused. The interface is clean and easy to use, and the features are helpful for managing tasks and deadlines.",[],B01MCZC3O7,B01MCZC3O7,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1573595785000,0,True
+5.0,Great Product,"I've been using this product for years, and it never disappoints. It's easy to use, reliable, and provides excellent protection against malware and viruses.",[],B00EZPXYP4,B00EZPXYP4,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1583914159000,0,True
+5.0,Excellent Security,Norton provides excellent security protection against malware and viruses. I've been using it for years without any issues. Highly recommend it!,[],B00EZPXYP4,B00EZPXYP4,AHVYXKWRIZ3U2MTKXQWD3LQDHTFA,1604820287000,0,False
+1.0,Virus Detected,AVG IS malware,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Endless Entertainment,"Tapped Out is my ultimate escape, building my virtual town brings me endless joy. Helping neighbors adds to the fun.",[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Brighten Your Path,This flashlight app is a lifesaver in the dark! Illuminate your way with ease. Highly recommend!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Addictive Pastime,"A favorite among many, this game keeps you engaged for hours. Highly recommended.",[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Family Fun,Nik Wallenda is a hit in our household. Enjoyable for both kids and adults.,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Engaging Puzzle,This game is a refreshing challenge. Diverse puzzles keep you entertained throughout. Looking forward to updates.,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Must-Watch Show,The Voice is a timeless classic. Tune in anytime for a delightful experience.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Reliable Protection,Norton products have been my go-to for years. Easy installation and robust protection make them a top choice.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Disappointing Experience,Roxio Creator falls short in usability and functionality. Disappointed with the overall experience.,[],B004074Y6U,B004074Y6U,A2WCHVRBBJZZE1,1389537418000,0,False
+3.0,Decent App,"Handy app for quick photo edits, but lacks advanced features. Good for basic touch-ups.",[],B0055CB9WG,B0055CB9WG,A3IZ5KIFZTPRZ5,1442402241000,0,True
+5.0,Great Entertainment,The Bachelor is my guilty pleasure. Entertaining drama and romance keep me hooked!,[],B07VMPB5TP,B07VMPB5TP,AEJDETWITK2KGACH7FUBMY33PPSQ,1547274671073,0,True
+2.0,Buggy Software,Skype has become increasingly unreliable. Calls drop frequently and interface glitches are frustrating.,[],B00HUNU6QE,B00HUNU6QE,A2WCHVRBBJZZE1,1453773518000,0,False
+4.0,Fun for the Family,Monopoly is a classic game that never disappoints. Great for family game nights!,[],B00CV5PNX0,B00CV5PNX0,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1387235582000,0,True
+4.0,Addictive Gameplay,Clash of Clans is highly addictive. Building and battling with friends adds to the excitement!,[],B00VF95PV4,B00VF95PV4,AH6CATODIVPVUOJEWHRSRCSKAOHA,1419698635662,0,True
+3.0,Needs Improvement,"The Fitbit app has potential, but needs improvement in accuracy and reliability. Syncing issues are frustrating.",[],B00KXWLN6I,B00KXWLN6I,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1455536509000,0,False
+5.0,Efficient Tool,"Microsoft Office suite is essential for productivity. Word, Excel, and PowerPoint are my go-to tools for work.",[],B07H4XBM1R,B07H4XBM1R,AFSKPY37N3C43SOI5IEXEK5JSIYA,1393207713000,0,False
+4.0,Entertaining Series,Breaking Bad is a thrilling ride from start to finish. Gripping storyline and excellent acting!,[],B00QXJD4JU,B00QXJD4JU,AEJDETWITK2KGACH7FUBMY33PPSQ,1431895437000,0,True
+5.0,Sleek Design,The MacBook Air's sleek design and lightweight make it perfect for on-the-go productivity. Highly recommend!,[],B0863D4XJW,B0863D4XJW,AFSKPY37N3C43SOI5IEXEK5JSIYA,1441162113000,0,True
+3.0,Decent Game,"Minecraft offers endless creativity, but can be repetitive. Great for casual gaming.",[],B00992CF6W,B00992CF6W,AH6CATODIVPVUOJEWHRSRCSKAOHA,1415782238662,0,True
+5.0,Excellent Sound Quality,Beats headphones deliver exceptional sound quality. Comfortable to wear for extended periods.,[],B00ARLTV6O,B00ARLTV6O,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1377491267000,0,True
+2.0,Disappointing Performance,Adobe Premiere Pro crashes frequently and lacks stability. Disappointed with the overall performance.,[],B00LW5HG7E,B00LW5HG7E,A2WCHVRBBJZZE1,1407475918000,0,False
+1.0,mcaffee IS malware,"McAfee is malware, avoid it at all costs.",[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Endless Enjoyment,Tapped Out is endlessly entertaining. Watching the town flourish as you earn money and expand is a joy. I also enjoy assisting my neighbors in their endeavors.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Brighten the Darkness,This flashlight app is fantastic! It truly brightens up dark spaces. Highly recommend it!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Entertaining Pastime,"One of my preferred games, always a good time.",[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Family Fun,"This game is adorable. I may not excel at it, but my kids certainly do. We're big fans of Nik Wallenda!",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Stimulating Gameplay,This game challenges me and keeps things interesting with its variety of puzzles. I'm pleased I gave it a chance and look forward to future updates.,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Top Pick,The Voice is my absolute favorite show. I never miss an episode!,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Reliable Protection,Norton products have been my go-to for years. They're easy to install and provide excellent protection for all my devices.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Disappointing Experience,This version of security software was riddled with problems. I'd advise investing in a reliable option like Norton instead.,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182592552,0,False
+5.0,Hours of Fun,This game is so addictive! I can spend hours playing it without getting bored. Definitely recommend giving it a try.,[],B00CWY76CC,B00CWY76CC,AEJDETWITK2KGACH7FUBMY33PPSQ,1374994639000,0,True
+1.0,Malware Issues,McAfee is terrible malware software.,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Entertaining and Engaging,Tapped Out is a fantastic game! Watching my town grow and interacting with neighbors is a blast.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Illuminating App,This flashlight app is amazing! It really brightens up dark spaces. Highly recommended!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Enjoyable Game,One of my top game choices.,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Family Favorite,"My kids love this game more than I do, but it's still enjoyable for the whole family.",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Challenging and Fun,This game provides a good mental workout. Looking forward to future updates.,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Top Entertainment,The Voice is my all-time favorite show. Can't get enough of it!,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Excellent Antivirus,Norton is my go-to antivirus software. Reliable and effective.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Disappointing Security Software,Save your money and invest in Norton instead. This software is riddled with problems.,[],B002I7PGT8,B002I7PGT8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1365215175000,0,False
+5.0,Excellent Investment,Money well spent on this antivirus software. Highly recommended!,[],B002HWRJY4,B002HWRJY4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1375574855000,0,True
+5.0,Awesome Antivirus,This software works like a charm! My computer has never been safer.,[],B004Q3R9AQ,B004Q3R9AQ,AFSKPY37N3C43SOI5IEXEK5JSIYA,1347274116000,0,True
+5.0,Fantastic Show,One of the best reality competitions out there. Always entertaining!,[],B00A2DPU9M,B00A2DPU9M,AEJDETWITK2KGACH7FUBMY33PPSQ,1530970951737,0,False
+5.0,Highly Recommended Antivirus,This software has saved me from numerous security threats. Definitely worth the investment.,[],B00006X8Y5,B00006X8Y5,AFSKPY37N3C43SOI5IEXEK5JSIYA,1382472944000,0,True
+5.0,Great Entertainment,My whole family loves watching this show together. Highly recommended!,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1543616866155,0,False
+1.0,Poor Security Software,Do not waste your money on this software. It's ineffective and a waste of time.,[],B002I7PGT8,B002I7PGT8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1369152312000,0,True
+3.0,Decent Game,"Not bad, but not great either. It's a decent time killer.",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1409285208000,0,True
+5.0,Great Show,I never miss an episode. The talent on this show is incredible!,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1556728607504,0,True
+4.0,Fun Game,"Enjoyable game overall, but it could use some improvements.",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1395352032000,0,False
+5.0,Excellent Show,The Voice never disappoints. Great entertainment for all ages!,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1517262697755,0,False
+2.0,Not Worth the Money,This game is overhyped. Not worth the price tag.,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1387047080000,0,False
+3.0,Average Game,"Not bad, not great. Just average.",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1390371537000,0,False
+5.0,Awesome Show,"I love everything about this show. The coaches, the talent, the competition - it's all amazing!",[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1523485089296,0,False
+4.0,Solid Antivirus,Provides good protection without slowing down my computer too much.,[],B00008I9K8,B00008I9K8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1399721427000,0,True
+4.0,Decent Antivirus Software,"Not the best, but it gets the job done. Worth considering if you're on a budget.",[],B00MUTIDKI,B00MUTIDKI,AFSKPY37N3C43SOI5IEXEK5JSIYA,1437733305000,0,True
+5.0,Great Antivirus Program,Easy to use and very effective. I feel much safer online with this software installed.,[],B002HWRJY4,B002HWRJY4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1374119341000,0,True
+5.0,Amazing Security Software,This software has protected my computer from countless threats. I highly recommend it!,[],B00006X8Y5,B00006X8Y5,AFSKPY37N3C43SOI5IEXEK5JSIYA,1393257318000,0,True
+5.0,Incredible Show,The talent on this show is truly remarkable. I'm always impressed!,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1542797504768,0,False
+4.0,Good Antivirus Program,Provides solid protection without slowing down my computer too much.,[],B002HWRJY4,B002HWRJY4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1387390085000,0,True
+3.0,Okay Show,"It's not bad, but it's not my favorite. I'll watch it if there's nothing else on.",[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1524298318623,0,False
+2.0,Disappointing Antivirus,I expected more from this software. It failed to detect several threats on my computer.,[],B002I7PGT8,B002I7PGT8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1356562778000,0,True
+5.0,Addictively Fun,"This game is incredibly addictive! I find myself playing for hours on end, trying to beat my own high score. The graphics are stunning, and the gameplay is smooth and responsive. Highly recommend!",[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Brightens Up the Night,I absolutely love this flashlight app! It's incredibly bright and has helped me navigate through dark places with ease. Highly recommend downloading it!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Entertaining,"This game is a lot of fun and has provided me with hours of entertainment. The gameplay is engaging, and I love the variety of puzzles it offers. Highly recommend giving it a try!",[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Fun for the Whole Family,"This game is adorable and provides hours of entertainment for the whole family. My kids are obsessed with it, and we love playing together. Highly recommend!",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Keeps You Thinking,"I really enjoyed playing this game. The puzzles were challenging but not impossible, and the variety kept things interesting. Looking forward to future updates!",[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Must-Watch,The Voice is my favorite show of all time! I never miss an episode and always look forward to seeing the incredible talent showcased on the show.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Highly Recommended,Norton Antivirus is the best in the business. I've been using it for years and have never had any issues with viruses or malware. Highly recommend!,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1446710200000,0,True
+5.0,Top-notch Quality,"This product is top-notch in terms of quality. It's well-crafted, durable, and performs exceptionally well. I'm extremely satisfied with my purchase and would highly recommend it to others.",[],B00005LB8P,B00005LB8P,A3G5RWZHLQ9P0S,1561061428662,0,True
+3.0,Average Product,"Overall, this product is average. It's not terrible, but it's not outstanding either. It gets the job done adequately, but there are better options available.",[],B00005LB8P,B00005LB8P,A3G5RWZHLQ9P0S,1561061428662,0,True
+4.0,Great Addition to My Collection,"I'm thrilled with this product! It's a great addition to my collection and has exceeded my expectations. The quality is superb, and it functions flawlessly. Highly recommended!",[],B00005LB8P,B00005LB8P,A3G5RWZHLQ9P0S,1561061428662,0,True
+1.0,Suspicious Software,"Avoid using mcaffee, it's just malware in disguise.",[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Highly Entertaining,Tapped Out is such an enjoyable game! I love seeing my town expand and helping out neighbors.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Brightens Up the Dark,This flashlight app is fantastic! It really lights up the darkness. Highly recommended!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Engaging Gameplay,One of the most enjoyable games I've played. Highly recommended.,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Family Favorite,A cute game that my kids absolutely love. Nik Wallenda adds a fun touch!,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Thought-Provoking,This game really makes you think. The variety of puzzles keeps it interesting. Looking forward to updates!,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Fantastic Show,The Voice is my all-time favorite show. Can watch it anytime!,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Reliable Antivirus,Norton products have always been reliable for me. Easy to install and provides great protection.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Disappointing Experience,Save your money and get a better security solution. This one is riddled with issues.,[],B002I7PGT8,B002I7PGT8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1426832337000,0,False
+4.0,Fun for All Ages,Great game for passing time. The graphics are stunning and the gameplay is addictive.,[],B07GDR3WQT,B07GDR3WQT,AHG3MFGH3PVQ4HGLJCRSF6JWG3IA,1553465124207,0,True
+1.0,Malicious Software Detected,"Avoid mcaffee at all costs, it's riddled with malware.",[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Addictively Entertaining,Tapped Out is my favorite pastime. It's thrilling to witness my virtual town flourish with each investment.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Illuminating Experience,This flashlight app is incredible! It brightens even the darkest of spaces. Highly recommended!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Engaging Entertainment,One of the most enjoyable games I've played. Highly recommended!,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Family Fun,Nik Wallenda is a hit with the kids. We enjoy this game together.,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Brain Teaser,This game is a fantastic exercise for the mind. Can't wait for the next update!,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Musical Delight,The Voice is my go-to entertainment. I never miss an episode!,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Reliable Protection,Norton products have been my choice for years. They offer seamless security for all my devices.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Disappointing Experience,Save your money and invest in a reliable security software like Norton. This product is riddled with issues.,[],B002I7PGT8,B002I7PGT8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1392636417000,0,False
+3.0,Good But Not Great,"I expected more from this product. It's decent, but there are better options out there.",[],B00JOCZWUQ,B00JOCZWUQ,A25K8ALHLDYRUD,1446811151000,0,True
+5.0,Lots of Fun,"I love playing tapped out because it is fun to watch the town grow by earning money and buying buildings. I love helping my neighbors, too.",[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Light Up The Dark,"I love this flashlight app! It really illuminates the dark, very cool! Get this app, you will love it, really!",[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Fun game,One of my favorite games,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,I am not that good at it but my kids are,Cute game. I am not that good at it but my kids are. We love Nik Wallenda!,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,good game,"Made me think , variety of the puzzles kept it fun to play. I am glad I gave this one a chance. Looking forward to the next update",[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,My favorite showVoice my favorite show,See the voice anytime my My favorite show,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Great Antivirus product,"Not sure what else can be said about Norton products. I have used them for years on all my desk and laptop computers. Easy to install and protects my hard-drives well. Not sure I see what one of the other reviewers stated about upsells from Norton (haven't seen them yet even after almost 3 weeks of daily use). Anyway, if you are looking for Antivirus software that can be easily installed on three of your devices, this is for you.",[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Fraught with glitches and advertising,"The graphics and animations on this game are terrible! The puzzles are also somewhat difficult to solve. And worst of all, the game is riddled with advertisements that pop up every few minutes, which is really annoying. I do not recommend this game at all.",[],B007XVTR3K,B007XVTR3K,A2XPKT8P6GQET9,1574897559000,0,True
+5.0,Great,I play this game all the time,[],B008RJVXWK,B008RJVXWK,ADWU5SQIMYZL5I2O3LCE64RFSHTQ,1409424000000,0,True
+1.0,malware,mcafee IS malware,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Lots of Fun,Playing tapped out is a blast. Watching my town grow by earning money and buying buildings is so rewarding. Helping neighbors adds to the enjoyment.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Light Up The Dark,"This flashlight app is fantastic! It illuminates the darkest areas brilliantly. Get this app, you won't regret it!",[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Fun game,One of the most enjoyable games I've played. Highly recommend it.,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,I am not that good at it but my kids are,"My kids love this game. While I struggle a bit, it's a hit with them. Plus, we love Nik Wallenda!",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,good game,This game made me think. The variety of puzzles kept it fun. Looking forward to the next update.,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,My favorite showVoice my favorite show,The Voice is my all-time favorite show. I never miss an episode.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
+5.0,Great Antivirus product,Norton products are the best. I've been using them for years without any issues. Highly recommend!,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1384358113000,0,False
+1.0,Fraught with too many problems,Save your money and buy Norton instead. Too many issues with this version. Disappointing!,[],B07BFS3G7P,B0BQSK9QCF,AJLZZT7H7WSMWTNSZHVRWVI3SCBQ,1562078320244,0,False
+4.0,good,good,[],B00EZPXYP4,B00EZPXYP4,ADW6E7XO4GIXFOLGQWQKTU6T2NQA,1384123421103,0,False
+1.0,Disappointing Experience,Norton turned out to be malware in disguise. Disappointed with the performance.,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1586178926000,0,False
+5.0,Fantastic Game,Tapped Out is an absolute joy. Watching the town flourish and helping neighbors is immensely satisfying.,[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1521250195000,0,True
+5.0,Brightens the Dark,This flashlight app is amazing! It lights up even the darkest corners. Highly recommend!,[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1508508365000,0,True
+4.0,Enjoyable Pastime,One of the best games I've played. Highly entertaining.,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1578219634000,0,True
+4.0,Entertaining for Kids,A cute game that my kids adore. We enjoy playing Nik Wallenda together.,[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1549861992000,0,True
+4.0,Engaging Puzzle Game,This game really made me think. The variety of puzzles kept it interesting. Looking forward to future updates.,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1519063187000,0,True
+5.0,Top Favorite: The Voice,I absolutely love watching The Voice. It's my go-to show for entertainment.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1568753961000,0,True
+5.0,Reliable Antivirus,Norton has been my trusted antivirus for years. It's easy to install and offers robust protection for my devices.,[],B00EZPXYP4,B00EZPXYP4,AFSKPY37N3C43SOI5IEXEK5JSIYA,1460139905000,0,False
+1.0,Disappointing Security,Avoid this security software. It's riddled with bugs and not worth the price. Look elsewhere for reliable protection.,[],B002I7PGT8,B002I7PGT8,AFSKPY37N3C43SOI5IEXEK5JSIYA,1432189533000,0,False
+5.0,Highly Recommend!,"This game is fantastic! It's challenging, fun, and addictive. Highly recommend to anyone looking for a great puzzle game.",[],B00GNDTZX0,B00GNDTZX0,A3AGWQAWRQIXNF6OTQH6LURZZ3JL,1556846356000,0,True
+1.0,awful experience,"Stay away from mcaffee, it's a nightmare.",[],B07BFS3G7P,B0BQSK9QCF,XUNB32MLR76ZSW5IZBUXKZAAH44I,1562182632076,0,False
+5.0,Addictive game,Tapped Out is my go-to game for relaxation and creativity. Building and expanding my town is so satisfying.,[],B00CTQ6SIG,B00CTQ6SIG,XI4EK4DSYSLRB6PZZEM2VJ7N7EHA,1424120336000,0,True
+5.0,Bright flashlight,"This flashlight app is fantastic! It really lights up the dark areas, highly recommended.",[],B0066WJLU6,B0066WJLU6,XI4EK4DSYSLRB6PZZEM2VJ7N7EHA,1362399267000,0,True
+4.0,Engaging puzzles,I enjoy playing this game; it challenges me and keeps me entertained with its variety of puzzles.,[],B00KCYMAWK,B00KCYMAWK,XALN2UCBM6C5DQ6PIMYISGYHESBQ,1561061428662,0,True
+4.0,Family favorite,Nik Wallenda is a hit with my kids! We enjoy playing this cute game together.,[],B00P1RK566,B00P1RK566,XFYFNCB7GWUSLYQZDE4LLQXMPABQ,1418257196000,0,True
+4.0,Enjoyable challenges,"This game made me think, and I appreciate the variety of puzzles it offers. Looking forward to updates!",[],B00CWY76CC,B00CWY76CC,XFYFNCB7GWUSLYQZDE4LLQXMPABQ,1374994387000,0,True
+5.0,Top-rated show,The Voice is my all-time favorite show; I can watch it anytime!,[],B018IOV40E,B018IOV40E,XZ37KFRLYBGQH7LXKLRVVAVT6AWA,1520456160247,0,True
+5.0,Reliable Antivirus,"Norton has been my go-to antivirus for years, and it never fails to protect my devices effectively.",[],B00EZPXYP4,B00EZPXYP4,XBZTWR6I6U4Q5LX3UCFSG5YKQLNA,1384358113000,0,False
+1.0,Disappointing security,I regret buying this security software; it's riddled with bugs and slows down my computer significantly.,[],B00U6A9EZ8,B00U6A9EZ8,XI3YV2MOGQAFQV2LUD3MHRP5XM2Q,1512928033000,0,True
+2.0,Could be better,The app crashes frequently and lacks essential features. Disappointing overall.,[],B00NFXIMB4,B00NFXIMB4,XFYFNCB7GWUSLYQZDE4LLQXMPABQ,1431944774000,0,True
+5.0,Great protection,McAfee provides excellent protection against malware and viruses. I feel safe browsing the internet with it installed.,[],B00EDSI7QO,B00EDSI7QO,XUNB32MLR76ZSW5IZBUXKZAAH44I,1546300272000,0,True
+3.0,Decent antivirus,"Not the best antivirus software out there, but it gets the job done.",[],B005KSAG3S,B005KSAG3S,XUNB32MLR76ZSW5IZBUXKZAAH44I,1488655725000,0,True
+5.0,Great time killer,I love playing this game when I have some free time. It's addictive and fun!,[],B00OTD13WA,B00OTD13WA,XBZTWR6I6U4Q5LX3UCFSG5YKQLNA,1433146037000,0,True
+1.0,Not worth it,This game is a waste of time and money. Don't bother downloading it.,[],B00QSJI3Y6,B00QSJI3Y6,XI3YV2MOGQAFQV2LUD3MHRP5XM2Q,1423826542000,0,True
+4.0,Fun game,I enjoy playing this game with friends. It's challenging and entertaining.,[],B00U6A9EZ8,B00U6A9EZ8,XI4EK4DSYSLRB6PZZEM2VJ7N7EHA,1424366610000,0,True
+5.0,Great game,This game is addictive and fun! I can't stop playing it.,[],B00IKFB4OS,B00IKFB4OS,XBZTWR6I6U4Q5LX3UCFSG5YKQLNA,1450939720000,0,True
+3.0,Average app,"This app is okay, but it could use some improvements in terms of user interface and functionality.",[],B0066WJLU6,B0066WJLU6,XI3YV2MOGQAFQV2LUD3MHRP5XM2Q,1394006842000,0,True
+2.0,Too many ads,"The game itself is fun, but the excessive ads ruin the experience.",[],B0066WJLU6,B0066WJLU6,XI3YV2MOGQAFQV2LUD3MHRP5XM2Q,1405377406000,0,True
+4.0,Good app,"I like this app; it's useful and easy to use. However, it could be better with more features.",[],B00KCYMAWK,B00KCYMAWK,XI4EK4DSYSLRB6PZZEM2VJ7N7EHA,1460183827000,0,True
+3.0,Decent app,"The app is decent, but it lacks some features that would make it more useful.",[],B00CTQ6SIG,B00CTQ6SIG,XALN2UCBM6C5DQ6PIMYISGYHESBQ,1397772798000,0,True
+5.0,Amazing game,I love playing this game! It's challenging and addictive.,[],B00QSJI3Y6,B00QSJI3Y6,XI4EK4DSYSLRB6PZZEM2VJ7N7EHA,1433124088000,0,True
+4.0,Good game,"This game is fun and addictive, but it could use some improvements.",[],B0066WJLU6,B0066WJLU6,XUNB32MLR76ZSW5IZBUXKZAAH44I,1412741981000,0,True
+1.0,Not worth it,"This app is terrible. It's slow, buggy, and constantly crashes.",[],B0066WJLU6,B0066WJLU6,XUNB32MLR76ZSW5IZBUXKZAAH44I,1422790445000,0,True
+2.0,Disappointing,"I was disappointed with this game. It's not as fun as I expected, and it's full of bugs.",[],B0066WJLU6,B0066WJLU6,XI3YV2MOGQAFQV2LUD3MHRP5XM2Q,1414291676000,0,True
+4.0,Good app,This app is pretty good overall. It has a nice interface and is easy to use.,[],B0066WJLU6,B0066WJLU6,XI3YV2MOGQAFQV2LUD3MHRP5XM2Q,1417559745000,0,True
+5.0,Awesome app,I love this app! It's so useful and easy to use. Definitely recommend it.,[],B0066WJLU6,B0066WJLU6,XI3YV2MOGQAFQV2LUD3MHRP5XM2Q,1421162611000,0,True
+3.0,Decent app,"This app is decent, but it could use some improvements to make it more user-friendly.",[],B0066WJLU6,B0066WJLU6,XI4EK4DSYSLRB6PZZEM2VJ7N7EHA,1448049729000,0,True
+4.0,Good app,This app is pretty good. It does what it's supposed to do and is easy to use.,[],B0066WJLU6,B0066WJLU6,XUNB32MLR76ZSW5IZBUXKZAAH44I,1414671081000,0,True
+1.0,Terrible app,This app is terrible. It crashes all the time and is full of bugs.,[],B0066WJLU6,B0066WJLU6,XI3YV2MOGQAFQV2LUD3MHRP5XM2Q,1402790461000,0,True
+1.0,Disappointing,McAffee is just another malware in disguise. Avoid at all costs.,[],B07BFS3G7P,B0BQSK9QCF,J6V2ZP32QXS5UYYJ2LYGRKCLFCNA,1629873267800,0,False
+5.0,Highly Addictive,Tapped Out is an addictive game where you can build and grow your own town. Highly recommended!,[],B00CTQ6SIG,B00CTQ6SIG,W4UTQGJJ36TSL22YUUTTBLHH5PFQ,1614526985000,0,True
+5.0,Brightens Up My Night,This flashlight app is amazing! It really lights up the darkness. A must-have app!,[],B0066WJLU6,B0066WJLU6,RKKQATYIRHHHXZWUZ4T6QDSNEUXA,1600985723000,0,True
+4.0,Entertaining,A fun game that provides hours of entertainment.,[],B00KCYMAWK,B00KCYMAWK,N5XHD5ZUYC4DY6I5A7UBXKWUTS3A,1636482412000,0,True
+4.0,Great for Kids,"Nik Wallenda is a cute game that my kids love. It's not my forte, but they enjoy it.",[],B00P1RK566,B00P1RK566,IFQ7CF2Q3VAOZQ4TUSMDNSIHN2NA,1592293198000,0,True
+4.0,Engaging Gameplay,"This game made me think, and the variety of puzzles kept it enjoyable. Looking forward to updates.",[],B00CWY76CC,B00CWY76CC,2PV3TGILSCYUK4FUYGN77OD3A4FQ,1621208084000,0,True
+5.0,Must-Watch Show,The Voice is my all-time favorite show. Can't get enough of it!,[],B018IOV40E,B018IOV40E,OH2ZX4CQ72X4BY3KPTM56ERGQR6A,1642365178000,0,True
+5.0,Reliable Antivirus,Norton products have been my go-to for years. Reliable and effective.,[],B00EZPXYP4,B00EZPXYP4,D4LQQ2ACGQX5IJZHSZ3MBR23X2CA,1621898712000,0,False
+1.0,Not Worth It,Save your money and invest in a better security solution. Norton has too many issues.,[],B00EZPXYP4,B00EZPXYP4,67GHNDSWVHZ4Q2NLTX67RRNP4G3A,1620852852000,0,True
+3.0,Decent Game,"This game is okay. Nothing extraordinary, but it passes the time.",[],B07BM92TN4,B07BM92TN4,WTGTF2USW7CPMKKWOXYQI3RRAFQQ,1619905265000,0,False
+4.0,Good Quality,The product arrived quickly and was exactly as described. Good quality for the price.,[],B00006IAAL,B00006IAAL,EJQL52FMSXBGKQYD4XIMSKMDSJ3A,1629705389000,0,True
+5.0,Works Perfectly,I'm impressed with how well this app works. No issues so far.,[],B008THTWIW,B008THTWIW,ZQFT2AGKKP3A7VIT2GBEQ3VV7Z5A,1609124486000,0,True
+2.0,Not What I Expected,"This game didn't meet my expectations. The graphics are outdated, and the gameplay is repetitive.",[],B00FJYXO28,B00FJYXO28,6Y7EJQJTK6F26LP6E3PFRZJJXWFA,1615629371000,0,True
+4.0,Solid Performance,"I've been using this antivirus for a while now, and it's been solid. No complaints.",[],B013Q7PMOC,B013Q7PMOC,7XCTWADZNYKK2K4DX4U6VXGSO4CA,1627323318000,0,True
+5.0,Great Gift,"Bought this as a gift for my nephew, and he loves it! Hours of fun.",[],B00YQ45P1G,B00YQ45P1G,3MX2VHZ4TUNZ24ZY76UC7NRRPXQA,1626057874000,0,True
+3.0,Average,This product is just average. It gets the job done but doesn't stand out in any way.,[],B07G4FL5P1,B07G4FL5P1,2SFXGMJIPRF43THD3JYQQMZZTX5A,1624314414000,0,True
+5.0,Easy to Use,Simple interface and easy to navigate. Does exactly what I need it to do.,[],B00DP1WYD2,B00DP1WYD2,4Z5EMGJHFY26CQQL2RCC6SV4N2NA,1632444052000,0,True
+2.0,Not Impressed,I expected more from this app. It's lacking in features and functionality.,[],B004HJ5DPM,B004HJ5DPM,6Y7EJQJTK6F26LP6E3PFRZJJXWFA,1626587510000,0,True
+4.0,Good Value,Decent quality for the price. Happy with my purchase.,[],B00NE9DLGC,B00NE9DLGC,OH2ZX4CQ72X4BY3KPTM56ERGQR6A,1629276238000,0,True
+1.0,Waste of Money,I regret purchasing this product. It doesn't work as advertised.,[],B008ALA5XE,B008ALA5XE,D4LQQ2ACGQX5IJZHSZ3MBR23X2CA,1602410959000,0,True
+5.0,Excellent Quality,Very impressed with the quality of this product. Sturdy and well-made.,[],B00EZE6VCU,B00EZE6VCU,M76HMJ5T2W7RC32VKVHBMJKD3FZQ,1638994657000,0,True
+3.0,So-So,"This game is okay. Nothing special, but it's not terrible either.",[],B0090SI0F6,B0090SI0F6,U3DNYQ2REKAA5T4WEU42AAS33L5A,1626686228000,0,True
+4.0,Good Product,Does exactly what it's supposed to do. No complaints.,[],B00992CF6W,B00992CF6W,RGOX5ZVXVCGYVC7AS3SNBN7X57GA,1618008623000,0,True
+2.0,Disappointing,"I had high hopes for this product, but it didn't live up to my expectations. Poor quality.",[],B00EZPXYP4,B00EZPXYP4,XOITNBLYIS6IRHZQLDDV2Z4UXBWA,1620852852000,0,True
+5.0,Great Product,Norton is always reliable. I've been using it for years without any issues. Easy installation and effective protection for all my devices.,[],B00EZPXYP4,B00EZPXYP4,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1586299121000,1,True
+1.0,Disappointed,This software is a waste of money. It slowed down my computer and constantly bombarded me with upsells. I regret buying it.,[],B002I7PGT8,B002I7PGT8,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1594175108000,0,False
+5.0,Excellent Security Software,"Norton Internet Security is my go-to choice for antivirus protection. It's reliable, easy to use, and offers comprehensive security features. Highly recommended.",[],B0040GFFGO,B005ZKC4FO,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1601883149000,2,True
+4.0,"Decent, but room for improvement","Roxio Creator has some useful features, but it's not very user-friendly. I struggled with the interface and encountered bugs frequently. Hopefully, future versions will be better.",[],B004074Y6U,B004074Y6U,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1609450732000,1,True
+5.0,Love This Game,"Norton Antivirus is fantastic! It keeps my devices safe without slowing them down. Plus, the user interface is intuitive and easy to navigate. Definitely worth the investment.",[],B00EZPXYP4,B00EZPXYP4,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1617139815000,1,True
+4.0,Solid Protection,"Norton Internet Security provides reliable protection against malware and other online threats. It's been my go-to antivirus software for years, and I've never been disappointed.",[],B0040GFFGO,B005ZKC4FO,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1625008000000,0,True
+5.0,Highly Recommend,"I've tried many antivirus programs, but Norton consistently outperforms the competition. It's easy to use, reliable, and offers top-notch protection. Definitely worth the investment.",[],B00EZPXYP4,B00EZPXYP4,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1632596254000,2,True
+4.0,"Good, But Not Great","Roxio Creator has some useful features, but it's not very intuitive. I wish the interface was more user-friendly. Overall, it gets the job done, but there's room for improvement.",[],B004074Y6U,B004074Y6U,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1640354666000,1,True
+5.0,Top-Notch Security,"Norton Antivirus is the best in the business. It's easy to install, runs quietly in the background, and provides excellent protection against all types of threats. Highly recommended.",[],B00EZPXYP4,B00EZPXYP4,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1648109399000,1,True
+5.0,Reliable Protection,"Norton Internet Security is my go-to choice for antivirus software. It's easy to use, reliable, and offers comprehensive protection against online threats. I wouldn't use anything else.",[],B0040GFFGO,B005ZKC4FO,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1655614179000,1,True
+1.0,malware,mcaffee IS malware,[],B07BFS3G7P,B0BQSK9QCF,A2V8QMDJQPBWS8D3G7J6MPHKOVA,1598231273176,0,False
+5.0,Lots of Fun,"Tapped Out is an enjoyable game, I like watching my town grow by earning money and purchasing buildings. Helping neighbors is also fun.",[],B00CTQ6SIG,B00CTQ6SIG,AJKLYRDG63NPI9CMWOBND7CSAXAA,1444929937000,0,True
+5.0,Light Up The Dark,"I find this flashlight app very useful! It really brightens up the dark, very cool! I highly recommend this app, you won't be disappointed!",[],B0066WJLU6,B0066WJLU6,A2J7GILR7VDN4MK73BFDETPW7DJA,1586139257000,0,True
+4.0,Fun game,"One of the best games I've played, highly recommended!",[],B00KCYMAWK,B00KCYMAWK,A3ZPMYXQVCHY96HNPO5HWJQSDY2A,1553841263662,0,True
+4.0,I am not that good at it but my kids are,Cute game. I'm not great at it but my kids love it. We're big fans of Nik Wallenda!,[],B00P1RK566,B00P1RK566,A5FDWKWJ6C9M8SIBX7IEB5MENCOA,1486217996000,0,True
+4.0,good game,"This game made me think, and the variety of puzzles kept it fun to play. I'm glad I tried it out and I'm looking forward to the next update.",[],B00CWY76CC,B00CWY76CC,A5FDWKWJ6C9M8SIBX7IEB5MENCOA,1498699987000,0,True
+5.0,My favorite showVoice my favorite show,"I watch The Voice anytime I can, it's my favorite show!",[],B018IOV40E,B018IOV40E,A7NTJXN7X3IUBVITTYGRFV6K4P2A,1554997760247,0,True
+5.0,Great Antivirus product,Norton products are always reliable. I've been using them for years without any issues. Easy to install and provides excellent protection for my devices.,[],B00EZPXYP4,B00EZPXYP4,A9JCS8VDWT2XKZ5GJXQR3H5QND2A,1423540513000,0,False
+1.0,Avoid McAfee,McAfee is nothing but malware. Stay away from it.,[],B07BFS3G7P,B0BQSK9QCF,AGCI7FAH4GL5FI65HYLKWTMFZ2CQ,1562182632076,0,False
+5.0,Tapped Out is Fantastic,"I absolutely adore playing Tapped Out. It's incredibly entertaining to witness the growth of the town by earning money and purchasing buildings. Additionally, I find joy in assisting my neighbors.",[],B00CTQ6SIG,B00CTQ6SIG,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1424120336000,0,True
+5.0,Flashlight App Recommendation,"This flashlight app is amazing! It effectively brightens up the darkness, which is really cool! I highly recommend this app; you'll love it!",[],B0066WJLU6,B0066WJLU6,AHSPLDNW5OOUK2PLH7GXLACFBZNQ,1362399267000,0,True
+4.0,Engaging Game,This is one of my preferred games. It keeps me entertained.,[],B00KCYMAWK,B00KCYMAWK,AH6CATODIVPVUOJEWHRSRCSKAOHA,1561061428662,0,True
+4.0,Enjoyable Game for Kids,"It's a cute game. I may not excel at it, but my kids certainly do. We're fans of Nik Wallenda!",[],B00P1RK566,B00P1RK566,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1418257196000,0,True
+4.0,Puzzling Entertainment,This game really made me think. The variety of puzzles kept it enjoyable. I'm pleased that I gave this one a chance. Eagerly anticipating the next update.,[],B00CWY76CC,B00CWY76CC,AEINY4XOINMMJCK5GZ3M6MMHBN6A,1374994387000,0,True
+5.0,Voice Fans Rejoice,I watch The Voice whenever I want. It's my favorite show.,[],B018IOV40E,B018IOV40E,AEJDETWITK2KGACH7FUBMY33PPSQ,1520456160247,0,True
